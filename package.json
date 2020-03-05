@@ -1,0 +1,30 @@
+{
+    "name": "hangman",
+    "version": "1.0.0",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:jiggyBu/hangman.git"
+    },
+    "engines": {
+        "npm": ">=5",
+        "node": ">=8.15.1"
+    },
+    "author": "Igor Stricevic",
+    "license": "",
+    "scripts": {
+        "start": "react-scripts start"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "> 1%",
+        "IE 10"
+    ],
+    "resolutions": {},
+    "dependencies": {
+        "react": "16.13.0",
+        "react-dom": "16.13.0",
+        "react-scripts": "3.4.0"
+    },
+    "devDependencies": {}
+}
